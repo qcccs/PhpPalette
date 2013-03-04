@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="edu.mass.qcc.palette">
+    <module_version install_time="1362370483225" last="true" origin="installer" specification_version="1.25">
+        <file crc="3647401512" name="config/Modules/edu-mass-qcc-palette.xml"/>
+        <file crc="4185051784" name="modules/edu-mass-qcc-palette.jar"/>
+    </module_version>
+</module>

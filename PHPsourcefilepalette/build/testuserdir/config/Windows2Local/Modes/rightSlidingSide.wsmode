@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mode version="2.4">
+    <module name="org.netbeans.core.ui/1" spec="1.2" />
+    <name unique="rightSlidingSide"  />
+  <kind type="sliding" />
+  <slidingSide side="right" />
+  <slide-in-size tc-id="CommonPalette" size="361" />
+  <state type="joined"  />
+  <bounds x="169" y="3" width="361" height="969" />
+  <frame state="0"/>
+    <empty-behavior permanent="true"/>
+</mode>
