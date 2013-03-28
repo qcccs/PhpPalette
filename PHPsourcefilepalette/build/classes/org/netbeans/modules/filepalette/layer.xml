@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+
+    <folder name="Editors">
+        <folder name="text">
+            <!--name must be PHP5-->
+            <folder name="x-php5">
+                <file name="PaletteFactory.instance">
+                    <attr name="instanceOf" stringvalue="org.netbeans.spi.palette.PaletteController"/>
+                    <attr methodvalue="org.netbeans.modules.filepalette.FileLayerPaletteFactory.createPalette" name="instanceCreate"/>
+                </file>
+            </folder>
+        </folder>
+    
+</folder>
+
+    <folder name="LearningPalette">
+        <folder name="Objects, Classes, Functions">
+            <attr bundlevalue="org.netbeans.modules.filepalette.Bundle#LearingPalette/Objects, Classes, Methods" name="displayName"/>
+            
+            
+            
+    <file name="StartTags.xml" url="StartTags.xml"/>
+<file name="Function.xml" url="Function.xml"/>
+
+<file name="NewClass.xml" url="NewClass.xml"/>
+<file name="NewObject.xml" url="NewObject.xml"/>
+</folder>
+        <folder name="Variables">
+            
+        <file name="BasicVariable.xml" url="BasicVariable.xml"/>
+</folder>
+        <folder name="Directives">
+            
+        <file name="Include.xml" url="Include.xml"/>
+</folder>
+            
+        <folder name="Decisions">
+            
+        <file name="IfDescision.xml" url="IfDescision.xml"/>
+
+<file name="ElseIfDescision.xml" url="ElseIfDescision.xml"/>
+<file name="SwitchStatement.xml" url="SwitchStatement.xml"/>
+<file name="ExpressionStatement.xml" url="ExpressionStatement.xml"/>
+<file name="ElseDescision.xml" url="ElseDescision.xml"/>
+</folder>
+        <folder name="Loops">
+            
+            
+            
+            
+        <file name="ForLoop.xml" url="ForLoop.xml"/>
+<file name="WhileLoop.xml" url="WhileLoop.xml"/>
+<file name="DoWhileLoop.xml" url="DoWhileLoop.xml"/>
+<file name="ForEachLoop.xml" url="ForEachLoop.xml"/>
+</folder>
+        <folder name="Arrays">
+            
+            
+        <file name="Array.xml" url="Array.xml"/>
+</folder>
+        
+        <folder name="Input Output">
+            
+        <file name="Echo.xml" url="Echo.xml"/>
+<file name="TryCatchStatement.xml" url="TryCatchStatement.xml"/>
+</folder> 
+                       
+        <folder name="Comments and JavaDoc">
+            <file name="InLineComment.xml" url="InLineComment.xml"/>
+            <file name="FullComment.xml" url="FullComment.xml"/>
+            <file name="JavaDocComment.xml" url="JavaDocComment.xml"/>
+        </folder>
+                
+        <folder name="Student Directory">
+        </folder>
+                 
+        <folder name="Macros">
+            <file name="boitem.xml" url="boitem.xml"/>
+            <file name="foriitem.xml" url="foriitem.xml"/>
+            <file name="ifeitem.xml" url="ifeitem.xml"/>
+            <file name="iffitem.xml" url="iffitem.xml"/>
+            <file name="incitem.xml" url="incitem.xml"/>
+            <file name="nsitem.xml" url="nsitem.xml"/>
+            <file name="whileitem.xml" url="whileitem.xml"/>
+            
+        </folder>
+        
+        
+    </folder>
+
+</filesystem>
