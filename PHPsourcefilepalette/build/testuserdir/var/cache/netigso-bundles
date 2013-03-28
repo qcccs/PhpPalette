@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Wed Mar 27 21:27:54 EDT 2013
+=======
+#Sun Mar 03 23:15:13 EST 2013
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.libs.nbi.ant=
 org.netbeans.modules.web.refactoring=
 org.netbeans.modules.maven.refactoring=
@@ -111,7 +115,10 @@ org.netbeans.modules.xml.jaxb.api=
 org.netbeans.modules.php.phpdoc.documentation=
 org.netbeans.modules.php.kit=
 org.netbeans.modules.html.editor.lib=
+<<<<<<< HEAD
 org.netbeans.libs.junit4=
+=======
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.profiler.j2ee.generic=
 org.netbeans.modules.dlight.util=
 org.netbeans.modules.glassfish.eecommon=
@@ -326,7 +333,10 @@ org.netbeans.modules.j2ee.metadata=
 org.netbeans.modules.maven.hints=
 org.netbeans.api.progress=
 org.netbeans.libs.freemarker=
+<<<<<<< HEAD
 org.netbeans.modules.junitlib=
+=======
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.cnd.api.model=
 org.netbeans.modules.php.apigen=
 org.netbeans.api.visual=

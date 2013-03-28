@@ -25,7 +25,11 @@ Microsystems, Inc. All Rights Reserved.
     <class name="org.netbeans.modules.filepalette.items.Echo" />
 
     <icon16 urlvalue="org/netbeans/modules/filepalette/items/resources/16icon.PNG" />
+<<<<<<< HEAD
     <icon32 urlvalue="org/netbeans/modules/filepalette/items/resources/32icon.PNG" />
+=======
+    <icon32 urlvalue="org/netbeans/modules/filepalette/items/resources/icon.PNG" />
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
     <description localizing-bundle="org/netbeans/modules/filepalette/items/resources/Bundle"
                  display-name-key="NAME_html-Echo"
                  tooltip-key="HINT_html-Echo" />

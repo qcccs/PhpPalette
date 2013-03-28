@@ -1,7 +1,13 @@
 <record>
+<<<<<<< HEAD
   <date>2013-03-27T21:27:30</date>
   <millis>1364434050148</millis>
   <sequence>84</sequence>
+=======
+  <date>2013-03-03T23:14:49</date>
+  <millis>1362370489008</millis>
+  <sequence>82</sequence>
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
   <level>FINEST</level>
   <thread>13</thread>
   <message>SCREEN SIZE</message>
@@ -10,32 +16,56 @@
   <param>2</param>
 </record>
 <record>
+<<<<<<< HEAD
   <date>2013-03-27T21:27:30</date>
   <millis>1364434050148</millis>
   <sequence>85</sequence>
+=======
+  <date>2013-03-03T23:14:49</date>
+  <millis>1362370489009</millis>
+  <sequence>83</sequence>
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
   <level>CONFIG</level>
   <thread>13</thread>
   <message>IDE_STARTUP</message>
 </record>
 <record>
+<<<<<<< HEAD
   <date>2013-03-27T21:27:32</date>
   <millis>1364434052831</millis>
   <sequence>113</sequence>
   <logger>org.netbeans.ui.metrics.php</logger>
   <level>INFO</level>
   <thread>25</thread>
+=======
+  <date>2013-03-03T23:14:51</date>
+  <millis>1362370491792</millis>
+  <sequence>118</sequence>
+  <logger>org.netbeans.ui.metrics.php</logger>
+  <level>INFO</level>
+  <thread>26</thread>
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
   <message>USG_PROJECT_OPEN_PHP</message>
   <key>USG_PROJECT_OPEN_PHP</key>
   <catalog>org.netbeans.modules.php.project.Bundle</catalog>
   <param></param>
 </record>
 <record>
+<<<<<<< HEAD
   <date>2013-03-27T21:27:32</date>
   <millis>1364434052878</millis>
   <sequence>114</sequence>
   <logger>org.netbeans.ui.projects</logger>
   <level>CONFIG</level>
   <thread>25</thread>
+=======
+  <date>2013-03-03T23:14:51</date>
+  <millis>1362370491842</millis>
+  <sequence>119</sequence>
+  <logger>org.netbeans.ui.projects</logger>
+  <level>CONFIG</level>
+  <thread>26</thread>
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
   <message>UI_INIT_PROJECTS</message>
   <key>UI_INIT_PROJECTS</key>
   <catalog>org.netbeans.modules.project.ui.Bundle</catalog>
@@ -44,19 +74,34 @@
   <param>1</param>
 </record>
 <record>
+<<<<<<< HEAD
   <date>2013-03-27T21:27:32</date>
   <millis>1364434052878</millis>
   <sequence>115</sequence>
   <logger>org.netbeans.ui.metrics.projects</logger>
   <level>INFO</level>
   <thread>25</thread>
+=======
+  <date>2013-03-03T23:14:51</date>
+  <millis>1362370491842</millis>
+  <sequence>120</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>INFO</level>
+  <thread>26</thread>
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
   <message>USG_PROJECT_OPEN</message>
   <param>org.netbeans.modules.php.project.PhpProject</param>
 </record>
 <record>
+<<<<<<< HEAD
   <date>2013-03-27T21:27:32</date>
   <millis>1364434052909</millis>
   <sequence>116</sequence>
+=======
+  <date>2013-03-03T23:14:51</date>
+  <millis>1362370491866</millis>
+  <sequence>121</sequence>
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
   <logger>org.netbeans.ui.indexing</logger>
   <level>INFO</level>
   <thread>40</thread>
@@ -66,9 +111,15 @@
   <param>0</param>
 </record>
 <record>
+<<<<<<< HEAD
   <date>2013-03-27T21:27:33</date>
   <millis>1364434053315</millis>
   <sequence>121</sequence>
+=======
+  <date>2013-03-03T23:14:52</date>
+  <millis>1362370492274</millis>
+  <sequence>126</sequence>
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
   <logger>org.netbeans.ui.indexing</logger>
   <level>INFO</level>
   <thread>40</thread>
@@ -78,27 +129,43 @@
   <param>406</param>
 </record>
 <record>
+<<<<<<< HEAD
   <date>2013-03-27T21:27:33</date>
   <millis>1364434053315</millis>
   <sequence>122</sequence>
+=======
+  <date>2013-03-03T23:14:52</date>
+  <millis>1362370492275</millis>
+  <sequence>127</sequence>
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
   <logger>org.netbeans.ui.indexing</logger>
   <level>INFO</level>
   <thread>40</thread>
   <message>INDEXING_STARTED</message>
   <key>INDEXING_STARTED</key>
   <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+<<<<<<< HEAD
   <param>0</param>
 </record>
 <record>
   <date>2013-03-27T21:27:33</date>
   <millis>1364434053642</millis>
   <sequence>130</sequence>
+=======
+  <param>1</param>
+</record>
+<record>
+  <date>2013-03-03T23:14:52</date>
+  <millis>1362370492869</millis>
+  <sequence>135</sequence>
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
   <logger>org.netbeans.ui.indexing</logger>
   <level>INFO</level>
   <thread>40</thread>
   <message>INDEXING_FINISHED</message>
   <key>INDEXING_FINISHED</key>
   <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+<<<<<<< HEAD
   <param>327</param>
   <param>TaskListIndexer</param>
   <param>4</param>
@@ -113,12 +180,29 @@
   <sequence>133</sequence>
   <level>INFO</level>
   <thread>40</thread>
+=======
+  <param>594</param>
+  <param>TaskListIndexer</param>
+  <param>4</param>
+  <param>59</param>
+  <param>org-netbeans-modules-jumpto-file-FileIndexer</param>
+  <param>4</param>
+  <param>9</param>
+</record>
+<record>
+  <date>2013-03-03T23:14:53</date>
+  <millis>1362370493400</millis>
+  <sequence>138</sequence>
+  <level>INFO</level>
+  <thread>34</thread>
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
   <message>MEMORY</message>
   <key>MEMORY</key>
   <catalog>&lt;null&gt;</catalog>
   <param>4294967295</param>
 </record>
 <record>
+<<<<<<< HEAD
   <date>2013-03-27T21:27:48</date>
   <millis>1364434068813</millis>
   <sequence>134</sequence>
@@ -145,6 +229,11 @@
   <date>2013-03-27T21:29:00</date>
   <millis>1364434140824</millis>
   <sequence>136</sequence>
+=======
+  <date>2013-03-03T23:14:56</date>
+  <millis>1362370496005</millis>
+  <sequence>139</sequence>
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
   <logger>org.netbeans.modules.palette.PaletteItemNode</logger>
   <level>INFO</level>
   <thread>33</thread>
@@ -428,9 +517,15 @@
   </exception>
 </record>
 <record>
+<<<<<<< HEAD
   <date>2013-03-27T21:29:00</date>
   <millis>1364434140839</millis>
   <sequence>137</sequence>
+=======
+  <date>2013-03-03T23:14:56</date>
+  <millis>1362370496013</millis>
+  <sequence>140</sequence>
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
   <logger>org.netbeans.modules.palette.PaletteItemNode</logger>
   <level>INFO</level>
   <thread>33</thread>
@@ -708,9 +803,15 @@
   </exception>
 </record>
 <record>
+<<<<<<< HEAD
   <date>2013-03-27T21:29:00</date>
   <millis>1364434140839</millis>
   <sequence>138</sequence>
+=======
+  <date>2013-03-03T23:14:56</date>
+  <millis>1362370496039</millis>
+  <sequence>141</sequence>
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
   <logger>org.netbeans.core.startup.layers.BinaryFS</logger>
   <level>INFO</level>
   <thread>33</thread>
@@ -995,9 +1096,15 @@
   </exception>
 </record>
 <record>
+<<<<<<< HEAD
   <date>2013-03-27T21:29:15</date>
   <millis>1364434155160</millis>
   <sequence>151</sequence>
+=======
+  <date>2013-03-03T23:15:40</date>
+  <millis>1362370540051</millis>
+  <sequence>154</sequence>
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
   <logger>org.netbeans.ui.focus</logger>
   <level>FINE</level>
   <thread>33</thread>
@@ -1006,6 +1113,7 @@
   <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
 </record>
 <record>
+<<<<<<< HEAD
   <date>2013-03-27T21:30:41</date>
   <millis>1364434241272</millis>
   <sequence>152</sequence>
@@ -1021,6 +1129,23 @@
   <date>2013-03-27T21:30:48</date>
   <millis>1364434248402</millis>
   <sequence>153</sequence>
+=======
+  <date>2013-03-03T23:36:41</date>
+  <millis>1362371801548</millis>
+  <sequence>155</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>56</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>8</param>
+</record>
+<record>
+  <date>2013-03-03T23:36:42</date>
+  <millis>1362371802907</millis>
+  <sequence>156</sequence>
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
   <logger>org.netbeans.ui.focus</logger>
   <level>FINE</level>
   <thread>33</thread>

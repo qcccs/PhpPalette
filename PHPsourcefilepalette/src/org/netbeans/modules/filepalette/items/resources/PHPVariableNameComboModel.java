@@ -15,7 +15,11 @@ import java.util.Set;
 import javax.swing.AbstractListModel;
 import javax.swing.ComboBoxModel;
 import org.netbeans.api.editor.EditorRegistry;
+<<<<<<< HEAD
 import java.util.LinkedList;
+=======
+
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 /**
  *
  * @author Bill
@@ -27,6 +31,7 @@ class PHPVariableNameComboModel extends AbstractListModel implements ComboBoxMod
     //initialize variables
     String   selection     = null;
     Set<String> variableNamesArray = new HashSet<String>();
+<<<<<<< HEAD
     Set<String> functionNamesArray = new HashSet<String>();
     Set<String> classNamesArray = new HashSet<String>();
     LinkedList< String> MyList = new LinkedList< String>();
@@ -34,6 +39,9 @@ class PHPVariableNameComboModel extends AbstractListModel implements ComboBoxMod
     String[] functionNames = { " " };
     String[] variableNames = { " " };
 
+=======
+    String[] variableNames = { " " };
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
     String replaceText2, pattern2, pattern3, replaceText3;
     
     /*
@@ -42,13 +50,18 @@ class PHPVariableNameComboModel extends AbstractListModel implements ComboBoxMod
      */
     public PHPVariableNameComboModel() throws FileNotFoundException {
         String input = EditorRegistry.lastFocusedComponent().getText();
+<<<<<<< HEAD
         String replaceInput = removeComment(input).replaceAll("[)(;]", "");
+=======
+        String replaceInput = removeComment(input).replaceAll("[)]", "");
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
         //enter entries (split) by whitespace
         String words[] = replaceInput.split("\\s+");
         int counter = 0;
         //while there are still words, add them to the variableNamesArray ArrayList
         while(counter<words.length){
             if(words[counter].charAt(0) == '$'){
+<<<<<<< HEAD
                 
                 variableNamesArray.add("   " + words[counter]);
             }
@@ -87,6 +100,15 @@ class PHPVariableNameComboModel extends AbstractListModel implements ComboBoxMod
              MyList.addAll(classNamesArray);
         }
         this.variableNames = (String[]) MyList.toArray(new String[0]);
+=======
+                variableNamesArray.add(words[counter]);
+            }
+            counter++;
+        }
+        //convert the arraylist to an array
+        this.variableNames = (String[]) variableNamesArray.toArray(new String[0]);
+        
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
     }
     
     public final String removeComment(String input){

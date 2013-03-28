@@ -3,8 +3,13 @@
 <windowmanager version="2.1">
     <main-window>
   <joined-properties
+<<<<<<< HEAD
    x="-8"
    y="-8"
+=======
+   x="2889"
+   y="-13"
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
    width="1382"
    height="744"
    relative-x="0.0"
@@ -44,10 +49,17 @@
     <active-mode name="editor"/>
     <toolbar configuration="Standard" preferred-icon-size="24"/>
     <tc-list>
+<<<<<<< HEAD
   <tc-id id="MultiView-php#002Esource#007Ctext#002Ehistory#007C"/>
   <tc-id id="CommonPalette"/>
   <tc-id id="Welcome"/>
   <tc-id id="projectTab_tc"/>
+=======
+  <tc-id id="CommonPalette"/>
+  <tc-id id="MultiView-php#002Esource#007Ctext#002Ehistory#007C"/>
+  <tc-id id="projectTab_tc"/>
+  <tc-id id="Welcome"/>
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
   <tc-id id="TaskListTopComponent"/>
   <tc-id id="navigatorTC"/>
   <tc-id id="services"/>

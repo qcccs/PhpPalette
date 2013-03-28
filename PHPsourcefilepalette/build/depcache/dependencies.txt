@@ -1450,6 +1450,7 @@ java.lang.Object
 org.netbeans.modules.filepalette.items.resources.ForEachLoopPopup$2
 org.netbeans.modules.filepalette.items.resources.ForEachLoopPopup
 java.awt.event.ActionListener
+<<<<<<< HEAD
 ||:org.netbeans.modules.filepalette.items.resources.IncludePopup
 java.lang.Class
 java.awt.Dialog
@@ -1496,6 +1497,8 @@ javax.swing.ButtonGroup
 javax.swing.JLabel
 javax.swing.JFileChooser
 javax.swing.ImageIcon
+=======
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 ||:org.netbeans.modules.filepalette.items.resources.IntegerArrayPopup$1
 java.lang.Object
 org.netbeans.modules.filepalette.items.resources.IntegerArrayPopup
@@ -2083,11 +2086,14 @@ javax.swing.AbstractListModel
 [Ljava.lang.String;
 edu.mass.qcc.qcccodewizard.GetVariableDeclarations
 javax.swing.ComboBoxModel
+<<<<<<< HEAD
 ||:org.netbeans.modules.filepalette.items.resources.FileExtension
 java.lang.String
 javax.swing.filechooser.FileFilter
 java.io.File
 org.netbeans.modules.filepalette.items.resources.FileExtension
+=======
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 ||:org.netbeans.modules.filepalette.items.Item
 java.lang.StringBuilder
 javax.swing.text.BadLocationException
@@ -2600,13 +2606,19 @@ java.awt.Dialog
 org.openide.DialogDescriptor
 java.awt.event.ActionListener
 ||:org.netbeans.modules.filepalette.items.resources.PHPVariableNameComboModel
+<<<<<<< HEAD
 java.lang.StringBuilder
+=======
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.filepalette.items.resources.PHPVariableNameComboModel
 java.util.HashSet
 java.util.Set
 javax.swing.AbstractListModel
 java.io.FileNotFoundException
+<<<<<<< HEAD
 java.util.LinkedList
+=======
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 javax.swing.ComboBoxModel
 [Ljava.lang.String;
 javax.swing.text.JTextComponent
@@ -3109,6 +3121,7 @@ javax.swing.JButton
 org.openide.DialogDescriptor
 org.netbeans.modules.filepalette.items.resources.DoubleArrayPopup$1
 java.awt.event.ActionListener
+<<<<<<< HEAD
 ||:org.netbeans.modules.filepalette.items.resources.IncludePopup$4
 java.lang.Object
 org.netbeans.modules.filepalette.items.resources.IncludePopup
@@ -3123,6 +3136,8 @@ org.netbeans.modules.filepalette.items.resources.IncludePopup$3
 org.netbeans.modules.filepalette.items.resources.IncludePopup
 org.netbeans.modules.filepalette.items.resources.IncludePopup$2
 java.awt.event.MouseAdapter
+=======
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 ||:org.netbeans.modules.filepalette.items.resources.DoWhilePopup
 java.awt.Dialog
 org.netbeans.modules.filepalette.items.resources.VariableNameComboModel
@@ -3168,6 +3183,7 @@ javax.swing.JScrollPane
 java.awt.event.ActionEvent
 javax.swing.ButtonGroup
 javax.swing.JLabel
+<<<<<<< HEAD
 ||:org.netbeans.modules.filepalette.items.resources.IncludePopup$1
 java.lang.Object
 org.netbeans.modules.filepalette.items.resources.IncludePopup
@@ -3176,6 +3192,8 @@ java.awt.Dialog
 javax.swing.JButton
 org.openide.DialogDescriptor
 java.awt.event.ActionListener
+=======
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 ||:org.netbeans.modules.filepalette.items.resources.WhileLoopPopup$3
 java.awt.event.MouseAdapter
 org.netbeans.modules.filepalette.items.resources.WhileLoopPopup
@@ -3793,6 +3811,7 @@ org.jdesktop.layout.GroupLayout$SequentialGroup
 org.jdesktop.layout.GroupLayout$ParallelGroup
 javax.swing.JTextField
 java.lang.String
+<<<<<<< HEAD
 ||:org.netbeans.modules.filepalette.items.Include
 java.lang.StringBuilder
 javax.swing.text.BadLocationException
@@ -3803,6 +3822,8 @@ org.openide.text.ActiveEditorDrop
 java.lang.Object
 javax.swing.text.JTextComponent
 java.lang.String
+=======
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 ||:edu.mass.qcc.palettehelper.CodeDrop$1InsertFormatedText
 java.lang.Object
 edu.mass.qcc.palettehelper.CodeDrop
@@ -4192,6 +4213,14 @@ java.lang.Object
 org.netbeans.modules.filepalette.items.resources.MainCodePopup
 org.netbeans.modules.filepalette.items.resources.MainCodePopup$7
 java.awt.event.ActionListener
+<<<<<<< HEAD
+=======
+||:org.netbeans.modules.filepalette.items.resources.MainCodePopup$6
+java.lang.Object
+org.netbeans.modules.filepalette.items.resources.MainCodePopup
+org.netbeans.modules.filepalette.items.resources.MainCodePopup$6
+java.awt.event.ActionListener
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 ||:org.netbeans.modules.filepalette.items.Echo
 java.lang.StringBuilder
 javax.swing.text.BadLocationException
@@ -4202,6 +4231,7 @@ java.lang.Object
 javax.swing.text.JTextComponent
 java.lang.String
 org.netbeans.modules.filepalette.items.resources.EchoPopup
+<<<<<<< HEAD
 ||:org.netbeans.modules.filepalette.items.resources.MainCodePopup$6
 java.lang.Object
 org.netbeans.modules.filepalette.items.resources.MainCodePopup
@@ -4211,6 +4241,17 @@ java.awt.event.ActionListener
 java.lang.Object
 org.netbeans.modules.filepalette.items.resources.MainCodePopup
 org.netbeans.modules.filepalette.items.resources.MainCodePopup$5
+=======
+||:org.netbeans.modules.filepalette.items.resources.MainCodePopup$5
+java.lang.Object
+org.netbeans.modules.filepalette.items.resources.MainCodePopup
+org.netbeans.modules.filepalette.items.resources.MainCodePopup$5
+java.awt.event.ActionListener
+||:org.netbeans.modules.filepalette.items.resources.MainCodePopup$4
+java.lang.Object
+org.netbeans.modules.filepalette.items.resources.MainCodePopup
+org.netbeans.modules.filepalette.items.resources.MainCodePopup$4
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 java.awt.event.ActionListener
 ||:org.netbeans.modules.filepalette.items.bo
 java.lang.StringBuilder
@@ -4222,11 +4263,14 @@ org.netbeans.modules.filepalette.items.bo
 java.lang.Object
 javax.swing.text.JTextComponent
 java.lang.String
+<<<<<<< HEAD
 ||:org.netbeans.modules.filepalette.items.resources.MainCodePopup$4
 java.lang.Object
 org.netbeans.modules.filepalette.items.resources.MainCodePopup
 org.netbeans.modules.filepalette.items.resources.MainCodePopup$4
 java.awt.event.ActionListener
+=======
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 ||:org.netbeans.modules.filepalette.items.resources.MainCodePopup$3
 java.lang.Object
 org.netbeans.modules.filepalette.items.resources.MainCodePopup
@@ -4271,6 +4315,19 @@ java.lang.Object
 javax.swing.text.JTextComponent
 java.lang.String
 org.netbeans.modules.filepalette.items.IfDescision
+<<<<<<< HEAD
+=======
+||:org.netbeans.modules.filepalette.items.Objectx
+java.lang.StringBuilder
+javax.swing.text.BadLocationException
+org.netbeans.modules.filepalette.items.resources.ObjectxPopup
+org.netbeans.modules.filepalette.items.FilePaletteUtilities
+org.openide.text.ActiveEditorDrop
+org.netbeans.modules.filepalette.items.Objectx
+java.lang.Object
+javax.swing.text.JTextComponent
+java.lang.String
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 ||:org.netbeans.modules.filepalette.items.resources.TryCatchPopup
 java.lang.Class
 java.awt.Dialog
@@ -4314,6 +4371,7 @@ java.awt.event.ActionEvent
 javax.swing.ButtonGroup
 javax.swing.JLabel
 javax.swing.ImageIcon
+<<<<<<< HEAD
 ||:org.netbeans.modules.filepalette.items.Objectx
 java.lang.StringBuilder
 javax.swing.text.BadLocationException
@@ -4324,6 +4382,8 @@ org.netbeans.modules.filepalette.items.Objectx
 java.lang.Object
 javax.swing.text.JTextComponent
 java.lang.String
+=======
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 ||:org.netbeans.modules.filepalette.items.resources.forcItemCustomizer$1
 java.lang.Object
 java.awt.Dialog
@@ -4420,6 +4480,7 @@ java.lang.Object
 org.netbeans.modules.filepalette.items.resources.ElseDescisionPopup
 org.netbeans.modules.filepalette.items.resources.ElseDescisionPopup$2
 java.awt.event.ActionListener
+<<<<<<< HEAD
 ||:org.netbeans.modules.filepalette.items.resources.ElseDescisionPopup$1
 java.lang.Object
 java.awt.Dialog
@@ -4428,6 +4489,8 @@ javax.swing.JButton
 org.openide.DialogDescriptor
 java.awt.event.ActionListener
 org.netbeans.modules.filepalette.items.resources.ElseDescisionPopup$1
+=======
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 ||:org.netbeans.modules.filepalette.items.StartTags
 java.lang.StringBuilder
 javax.swing.text.BadLocationException
@@ -4438,6 +4501,24 @@ org.netbeans.modules.filepalette.items.StartTags
 java.lang.Object
 javax.swing.text.JTextComponent
 java.lang.String
+<<<<<<< HEAD
+=======
+||:org.netbeans.modules.filepalette.items.resources.ElseDescisionPopup$1
+java.lang.Object
+java.awt.Dialog
+org.netbeans.modules.filepalette.items.resources.ElseDescisionPopup
+javax.swing.JButton
+org.openide.DialogDescriptor
+java.awt.event.ActionListener
+org.netbeans.modules.filepalette.items.resources.ElseDescisionPopup$1
+||:org.netbeans.modules.filepalette.items.resources.dowhilemacroItemCustomizer$1
+java.lang.Object
+org.netbeans.modules.filepalette.items.resources.dowhilemacroItemCustomizer$1
+org.netbeans.modules.filepalette.items.resources.dowhilemacroItemCustomizer
+java.awt.Dialog
+org.openide.DialogDescriptor
+java.awt.event.ActionListener
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 ||:org.netbeans.modules.filepalette.items.NewFunction
 java.lang.StringBuilder
 javax.swing.text.BadLocationException
@@ -4448,6 +4529,7 @@ org.netbeans.modules.filepalette.items.NewFunction
 java.lang.Object
 javax.swing.text.JTextComponent
 java.lang.String
+<<<<<<< HEAD
 ||:org.netbeans.modules.filepalette.items.resources.dowhilemacroItemCustomizer$1
 java.lang.Object
 org.netbeans.modules.filepalette.items.resources.dowhilemacroItemCustomizer$1
@@ -4455,29 +4537,42 @@ org.netbeans.modules.filepalette.items.resources.dowhilemacroItemCustomizer
 java.awt.Dialog
 org.openide.DialogDescriptor
 java.awt.event.ActionListener
+=======
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 ||:org.netbeans.modules.filepalette.items.resources.FunctionPopup$4
 java.lang.Object
 org.netbeans.modules.filepalette.items.resources.FunctionPopup$4
 org.netbeans.modules.filepalette.items.resources.FunctionPopup
 java.awt.event.ActionListener
+<<<<<<< HEAD
 ||:org.netbeans.modules.filepalette.items.resources.FunctionPopup$3
 java.awt.event.MouseAdapter
 org.netbeans.modules.filepalette.items.resources.FunctionPopup$3
 org.netbeans.modules.filepalette.items.resources.FunctionPopup
+=======
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 ||:org.netbeans.modules.filepalette.items.resources.IfStatementPopup$3
 java.awt.event.MouseAdapter
 org.netbeans.modules.filepalette.items.resources.IfStatementPopup$3
 org.netbeans.modules.filepalette.items.resources.IfStatementPopup
+<<<<<<< HEAD
 ||:org.netbeans.modules.filepalette.items.resources.IfStatementPopup$2
 java.lang.Object
 org.netbeans.modules.filepalette.items.resources.IfStatementPopup$2
 org.netbeans.modules.filepalette.items.resources.IfStatementPopup
 java.awt.event.ActionListener
+=======
+||:org.netbeans.modules.filepalette.items.resources.FunctionPopup$3
+java.awt.event.MouseAdapter
+org.netbeans.modules.filepalette.items.resources.FunctionPopup$3
+org.netbeans.modules.filepalette.items.resources.FunctionPopup
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 ||:org.netbeans.modules.filepalette.items.resources.FunctionPopup$2
 java.lang.Object
 org.netbeans.modules.filepalette.items.resources.FunctionPopup
 org.netbeans.modules.filepalette.items.resources.FunctionPopup$2
 java.awt.event.ActionListener
+<<<<<<< HEAD
 ||:org.netbeans.modules.filepalette.items.resources.IfStatementPopup$1
 java.lang.Object
 java.awt.Dialog
@@ -4485,6 +4580,12 @@ org.netbeans.modules.filepalette.items.resources.IfStatementPopup$1
 org.netbeans.modules.filepalette.items.resources.IfStatementPopup
 javax.swing.JButton
 org.openide.DialogDescriptor
+=======
+||:org.netbeans.modules.filepalette.items.resources.IfStatementPopup$2
+java.lang.Object
+org.netbeans.modules.filepalette.items.resources.IfStatementPopup$2
+org.netbeans.modules.filepalette.items.resources.IfStatementPopup
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 java.awt.event.ActionListener
 ||:org.netbeans.modules.filepalette.items.resources.FunctionPopup$1
 java.lang.Object
@@ -4494,3 +4595,14 @@ org.netbeans.modules.filepalette.items.resources.FunctionPopup$1
 javax.swing.JButton
 org.openide.DialogDescriptor
 java.awt.event.ActionListener
+<<<<<<< HEAD
+=======
+||:org.netbeans.modules.filepalette.items.resources.IfStatementPopup$1
+java.lang.Object
+java.awt.Dialog
+org.netbeans.modules.filepalette.items.resources.IfStatementPopup$1
+org.netbeans.modules.filepalette.items.resources.IfStatementPopup
+javax.swing.JButton
+org.openide.DialogDescriptor
+java.awt.event.ActionListener
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d

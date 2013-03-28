@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Wed Mar 27 21:27:55 EDT 2013
+=======
+#Sun Mar 03 23:15:34 EST 2013
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.javascript.refactoring.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.maven.jaxws.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.html.parser.OpenIDE-Module-Install=\u0000
@@ -51,7 +55,10 @@ org.netbeans.modules.websvc.saas.codegen.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.modules.bugtracking.bridge.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.hudson.OpenIDE-Module-Layer=org/netbeans/modules/hudson/layer.xml
 org.netbeans.modules.websvc.jaxwsapi.AutoUpdate-Show-In-Client=false
+<<<<<<< HEAD
 org.netbeans.modules.junitlib.AutoUpdate-Show-In-Client=true
+=======
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.apache.commons.lang.OpenIDE-Module-Description=\u0000
 org.netbeans.modules.html.OpenIDE-Module-Description=\u0000
 org.netbeans.modules.defaults.OpenIDE-Module-Hide-Classpath-Packages=\u0000
@@ -63,9 +70,15 @@ org.netbeans.modules.editor.bookmarks.OpenIDE-Module-Description=\u0000
 org.netbeans.modules.uihandler.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.maven.junit.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.db.kit.OpenIDE-Module-Install=\u0000
+<<<<<<< HEAD
 org.netbeans.modules.languages.diff.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.cnd.editor.AutoUpdate-Show-In-Client=false
 org.openide.options.AutoUpdate-Show-In-Client=false
+=======
+org.openide.options.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.cnd.editor.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.languages.diff.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.xml.tools.OpenIDE-Module-Install=\u0000
 org.eclipse.mylyn.tasks.core.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.modules.websvc.saas.services.weatherbug.OpenIDE-Module-Deprecated=\u0000
@@ -89,14 +102,20 @@ org.netbeans.modules.websvc.saas.services.amazon.OpenIDE-Module-Install=\u0000
 org.netbeans.modules.jellytools.ide.AutoUpdate-Show-In-Client=false
 org.eclipse.equinox.preferences.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.html.lexer.OpenIDE-Module-Layer=org/netbeans/lib/html/lexer/layer.xml
+<<<<<<< HEAD
 org.netbeans.modules.junitlib.OpenIDE-Module-Layer=org/netbeans/modules/junitlib/layer.xml
+=======
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.bugtracking.bridge.OpenIDE-Module-Layer=org/netbeans/modules/bugtracking/bridge/layer.xml
 org.netbeans.modules.editor.util.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.modules.xml.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.modules.options.keymap.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.core.startup.OpenIDE-Module-Layer=org/netbeans/core/startup/layer.xml
 org.netbeans.modules.javafx2.kit.AutoUpdate-Show-In-Client=true
+<<<<<<< HEAD
 org.netbeans.modules.junitlib.OpenIDE-Module-Hide-Classpath-Packages=\u0000
+=======
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.dlight.nativeexecution.OpenIDE-Module-Layer=org/netbeans/modules/nativeexecution/resources/layer.xml
 org.netbeans.modules.utilities.project.AutoUpdate-Show-In-Client=false
 org.netbeans.api.progress.OpenIDE-Module-Hide-Classpath-Packages=\u0000
@@ -120,8 +139,13 @@ org.netbeans.modules.languages.apacheconf.OpenIDE-Module-Install=\u0000
 org.netbeans.modules.javacard.ri.bundle.AutoUpdate-Show-In-Client=true
 org.netbeans.modules.websvc.saas.ui.OpenIDE-Module-Deprecated=\u0000
 org.eclipse.mylyn.bugzilla.core.OpenIDE-Module-Install=\u0000
+<<<<<<< HEAD
 org.eclipse.equinox.security.AutoUpdate-Show-In-Client=\u0000
 org.netbeans.modules.profiler.stp.AutoUpdate-Show-In-Client=false
+=======
+org.netbeans.modules.profiler.stp.AutoUpdate-Show-In-Client=false
+org.eclipse.equinox.security.AutoUpdate-Show-In-Client=\u0000
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.openide.loaders.AutoUpdate-Show-In-Client=false
 org.netbeans.api.visual.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.modules.php.api.phpmodule.OpenIDE-Module-Install=\u0000
@@ -142,8 +166,13 @@ org.netbeans.modules.editor.global.format.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.modules.cnd.folding.AutoUpdate-Show-In-Client=false
 org.apache.commons.lang.OpenIDE-Module-Layer=\u0000
 org.netbeans.modules.languages.apacheconf.OpenIDE-Module-Description=\u0000
+<<<<<<< HEAD
 org.netbeans.modules.queries.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.extexecution.destroy.AutoUpdate-Show-In-Client=false
+=======
+org.netbeans.modules.extexecution.destroy.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.queries.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.libs.svnClientAdapter.OpenIDE-Module-Description=\u0000
 org.netbeans.modules.hudson.mercurial.OpenIDE-Module-Install=\u0000
 org.netbeans.modules.editor.search.OpenIDE-Module-Hide-Classpath-Packages=\u0000
@@ -194,8 +223,13 @@ org.netbeans.libs.antlr3.runtime.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.eclipse.equinox.security.OpenIDE-Module-Install=\u0000
 org.eclipse.mylyn.tasks.core.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.javascript.kit.OpenIDE-Module-Install=\u0000
+<<<<<<< HEAD
 org.netbeans.modules.cnd.script.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.javascript.kit.AutoUpdate-Show-In-Client=false
+=======
+org.netbeans.modules.javascript.kit.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.cnd.script.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.libs.svnClientAdapter.javahl.OpenIDE-Module-Layer=\u0000
 org.netbeans.modules.web.core.AutoUpdate-Show-In-Client=false
 org.netbeans.core.ide.OpenIDE-Module-Layer=org/netbeans/core/ide/resources/layer.xml
@@ -241,9 +275,15 @@ org.netbeans.modules.dlight.util.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.gsf.testrunner.OpenIDE-Module-Install=\u0000
 org.openide.execution.AutoUpdate-Show-In-Client=false
 org.netbeans.bootstrap.OpenIDE-Module-Install=\u0000
+<<<<<<< HEAD
 org.netbeans.modules.websvc.saas.services.twitter.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.java.hints.declarative.test.AutoUpdate-Show-In-Client=false
 org.netbeans.libs.jsr223.AutoUpdate-Show-In-Client=false
+=======
+org.netbeans.libs.jsr223.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.websvc.saas.services.twitter.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.java.hints.declarative.test.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.eclipse.mylyn.commons.xmlrpc.OpenIDE-Module-Description=\u0000
 org.netbeans.libs.commons_net.OpenIDE-Module-Description=\u0000
 org.netbeans.modules.editor.bracesmatching.OpenIDE-Module-Description=\u0000
@@ -251,8 +291,13 @@ org.netbeans.modules.mobility.project.ant.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.editor.guards.OpenIDE-Module-Install=\u0000
 org.netbeans.modules.autoupdate.ui.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.print.OpenIDE-Module-Install=\u0000
+<<<<<<< HEAD
 org.netbeans.modules.editor.AutoUpdate-Show-In-Client=false
 org.openide.filesystems.AutoUpdate-Show-In-Client=false
+=======
+org.openide.filesystems.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.editor.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.j2ee.ant.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.web.monitor.AutoUpdate-Show-In-Client=false
 org.netbeans.libs.antlr3.runtime.OpenIDE-Module-Install=\u0000
@@ -310,7 +355,10 @@ org.netbeans.modules.maven.embedder.AutoUpdate-Show-In-Client=false
 org.openide.io.AutoUpdate-Show-In-Client=false
 org.netbeans.libs.antlr3.runtime.OpenIDE-Module-Layer=\u0000
 org.openide.execution.OpenIDE-Module-Description=\u0000
+<<<<<<< HEAD
 org.netbeans.modules.junitlib.OpenIDE-Module-Install=\u0000
+=======
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.html.editor.lib.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.hudson.git.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.websvc.saas.services.delicious.OpenIDE-Module-Layer=org/netbeans/modules/websvc/saas/services/delicious/layer.xml
@@ -368,8 +416,13 @@ org.netbeans.modules.cloud.amazon.AutoUpdate-Show-In-Client=false
 org.netbeans.libs.git.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.php.dbgp.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.editor.macros.OpenIDE-Module-Deprecated=\u0000
+<<<<<<< HEAD
 org.netbeans.modules.maven.checkstyle.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.cnd.discovery.AutoUpdate-Show-In-Client=false
+=======
+org.netbeans.modules.cnd.discovery.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.maven.checkstyle.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.options.java.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.css.editor.OpenIDE-Module-Description=\u0000
 org.netbeans.libs.ini4j.AutoUpdate-Show-In-Client=false
@@ -440,7 +493,10 @@ org.netbeans.modules.editor.kit.AutoUpdate-Show-In-Client=false
 org.netbeans.swing.outline.OpenIDE-Module-Description=\u0000
 org.netbeans.modules.php.twig.OpenIDE-Module-Install=\u0000
 org.netbeans.swing.outline.OpenIDE-Module-Layer=\u0000
+<<<<<<< HEAD
 org.netbeans.libs.junit4.OpenIDE-Module-Install=\u0000
+=======
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.subversion.OpenIDE-Module-Layer=org/netbeans/modules/subversion/resources/svn-layer.xml
 org.netbeans.modules.ide.branding.kit.AutoUpdate-Show-In-Client=true
 org.netbeans.modules.editor.plain.AutoUpdate-Show-In-Client=false
@@ -468,8 +524,13 @@ org.netbeans.api.xml.OpenIDE-Module-Layer=org/netbeans/api/xml/resources/mf-laye
 org.netbeans.modules.extbrowser.OpenIDE-Module-Layer=org/netbeans/modules/extbrowser/resources/layer.xml
 org.netbeans.modules.editor.bracesmatching.OpenIDE-Module-Layer=org/netbeans/modules/editor/bracesmatching/layer.xml
 org.netbeans.modules.php.apigen.OpenIDE-Module-Hide-Classpath-Packages=\u0000
+<<<<<<< HEAD
 org.netbeans.modules.core.kit.AutoUpdate-Show-In-Client=true
 org.netbeans.insane.AutoUpdate-Show-In-Client=false
+=======
+org.netbeans.insane.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.core.kit.AutoUpdate-Show-In-Client=true
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.cnd.antlr.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.editor.errorstripe.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.modules.db.metadata.model.OpenIDE-Module-Layer=\u0000
@@ -493,8 +554,13 @@ org.netbeans.modules.php.api.phpmodule.AutoUpdate-Show-In-Client=false
 org.mozilla.rhino.patched.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.modules.versioning.masterfs.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.versioning.core.OpenIDE-Module-Install=\u0000
+<<<<<<< HEAD
 org.netbeans.libs.lucene.AutoUpdate-Show-In-Client=false
 org.eclipse.jgit.AutoUpdate-Show-In-Client=\u0000
+=======
+org.eclipse.jgit.AutoUpdate-Show-In-Client=\u0000
+org.netbeans.libs.lucene.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.websvc.saas.services.google.OpenIDE-Module-Layer=org/netbeans/modules/websvc/saas/services/google/layer.xml
 org.netbeans.modules.apisupport.feedreader.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.xml.OpenIDE-Module-Hide-Classpath-Packages=\u0000
@@ -531,8 +597,13 @@ org.netbeans.modules.xml.tax.OpenIDE-Module-Install=org/netbeans/modules/xml/tax
 org.netbeans.modules.editor.deprecated.pre65formatting.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.editor.util.OpenIDE-Module-Description=\u0000
 org.netbeans.libs.jna.OpenIDE-Module-Description=\u0000
+<<<<<<< HEAD
 org.netbeans.modules.findbugs.installer.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.spring.webmvc.AutoUpdate-Show-In-Client=true
+=======
+org.netbeans.modules.spring.webmvc.AutoUpdate-Show-In-Client=true
+org.netbeans.modules.findbugs.installer.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.javascript.hints.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.apache.commons.logging.AutoUpdate-Show-In-Client=\u0000
 org.netbeans.modules.web.indent.OpenIDE-Module-Hide-Classpath-Packages=\u0000
@@ -555,8 +626,13 @@ org.openide.nodes.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.xml.tax.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.php.twig.OpenIDE-Module-Layer=org/netbeans/modules/php/twig/resources/layer.xml
 org.netbeans.modules.web.freeform.AutoUpdate-Show-In-Client=false
+<<<<<<< HEAD
 org.netbeans.modules.properties.syntax.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.php.phpdoc.documentation.AutoUpdate-Show-In-Client=true
+=======
+org.netbeans.modules.php.phpdoc.documentation.AutoUpdate-Show-In-Client=true
+org.netbeans.modules.properties.syntax.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.image.OpenIDE-Module-Install=\u0000
 org.netbeans.modules.php.symfony2.OpenIDE-Module-Install=\u0000
 org.apache.xmlrpc.AutoUpdate-Show-In-Client=\u0000
@@ -566,8 +642,13 @@ org.netbeans.modules.j2me.cdc.kit.AutoUpdate-Show-In-Client=false
 org.eclipse.core.runtime.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.core.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.web.common.OpenIDE-Module-Install=\u0000
+<<<<<<< HEAD
 org.netbeans.modules.javafx2.project.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.options.api.AutoUpdate-Show-In-Client=false
+=======
+org.netbeans.modules.options.api.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.javafx2.project.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.editor.indent.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.j2me.cdc.project.sjmc.AutoUpdate-Show-In-Client=false
 org.netbeans.api.annotations.common.OpenIDE-Module-Description=\u0000
@@ -604,8 +685,13 @@ org.netbeans.modules.options.editor.OpenIDE-Module-Layer=org/netbeans/modules/op
 org.netbeans.modules.projectapi.OpenIDE-Module-Install=\u0000
 org.apache.commons.logging.OpenIDE-Module-Description=\u0000
 org.netbeans.modules.derby.OpenIDE-Module-Hide-Classpath-Packages=\u0000
+<<<<<<< HEAD
 org.netbeans.libs.svnClientAdapter.AutoUpdate-Show-In-Client=false
 org.netbeans.core.nativeaccess.AutoUpdate-Show-In-Client=false
+=======
+org.netbeans.core.nativeaccess.AutoUpdate-Show-In-Client=false
+org.netbeans.libs.svnClientAdapter.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.api.xml.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.profiler.utilities.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.keyring.impl.OpenIDE-Module-Deprecated=\u0000
@@ -725,8 +811,13 @@ org.netbeans.modules.bugtracking.OpenIDE-Module-Description=\u0000
 org.netbeans.modules.languages.diff.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.libs.freemarker.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.sendopts.OpenIDE-Module-Install=\u0000
+<<<<<<< HEAD
 org.netbeans.modules.groovy.refactoring.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.mercurial.AutoUpdate-Show-In-Client=true
+=======
+org.netbeans.modules.mercurial.AutoUpdate-Show-In-Client=true
+org.netbeans.modules.groovy.refactoring.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.api.annotations.common.OpenIDE-Module-Install=\u0000
 org.netbeans.modules.editor.macros.OpenIDE-Module-Layer=org/netbeans/modules/editor/macros/layer.xml
 org.netbeans.modules.xml.axi.AutoUpdate-Show-In-Client=false
@@ -746,15 +837,25 @@ org.netbeans.modules.editor.fold.OpenIDE-Module-Layer=\u0000
 org.netbeans.modules.editor.mimelookup.impl.OpenIDE-Module-Layer=\u0000
 org.netbeans.modules.php.editor.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.ide.branding.kit.OpenIDE-Module-Install=\u0000
+<<<<<<< HEAD
 org.netbeans.modules.servletapi.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.web.jsf.kit.AutoUpdate-Show-In-Client=true
+=======
+org.netbeans.modules.web.jsf.kit.AutoUpdate-Show-In-Client=true
+org.netbeans.modules.servletapi.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.maven.search.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.tasklist.ui.OpenIDE-Module-Layer=org/netbeans/modules/tasklist/ui/layer.xml
 org.netbeans.modules.websvc.projectapi.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.properties.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.libs.nbi.ant.AutoUpdate-Show-In-Client=false
+<<<<<<< HEAD
 org.netbeans.modules.profiler.oql.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.server.AutoUpdate-Show-In-Client=false
+=======
+org.netbeans.modules.server.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.profiler.oql.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 com.jcraft.jzlib.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.modules.editor.completion.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.modules.groovy.grails.AutoUpdate-Show-In-Client=false
@@ -778,11 +879,18 @@ org.netbeans.modules.db.kit.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.modules.websvc.saas.services.flickr.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.modules.db.mysql.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.modules.php.kit.AutoUpdate-Show-In-Client=true
+<<<<<<< HEAD
 org.netbeans.modules.java.platform.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.websvc.saas.services.weatherbug.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.db.core.OpenIDE-Module-Description=\u0000
 org.netbeans.modules.editor.macros.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.libs.junit4.OpenIDE-Module-Description=\u0000
+=======
+org.netbeans.modules.websvc.saas.services.weatherbug.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.java.platform.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.db.core.OpenIDE-Module-Description=\u0000
+org.netbeans.modules.editor.macros.OpenIDE-Module-Hide-Classpath-Packages=\u0000
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.editor.indent.OpenIDE-Module-Layer=org/netbeans/modules/editor/indent/resources/layer.xml
 org.netbeans.modules.cnd.completion.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.localhistory.OpenIDE-Module-Deprecated=\u0000
@@ -794,16 +902,26 @@ org.apache.xml.resolver.OpenIDE-Module-Install=\u0000
 org.netbeans.modules.form.nb.AutoUpdate-Show-In-Client=false
 org.netbeans.libs.felix.OpenIDE-Module-Layer=\u0000
 org.netbeans.modules.editor.util.AutoUpdate-Show-In-Client=false
+<<<<<<< HEAD
 org.openide.compat.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.xml.AutoUpdate-Show-In-Client=false
+=======
+org.netbeans.modules.xml.AutoUpdate-Show-In-Client=false
+org.openide.compat.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.openide.execution.OpenIDE-Module-Install=\u0000
 org.netbeans.modules.tasklist.projectint.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.modules.dlight.terminal.OpenIDE-Module-Install=\u0000
 org.netbeans.modules.masterfs.windows.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.xml.tools.OpenIDE-Module-Deprecated=\u0000
+<<<<<<< HEAD
 org.netbeans.libs.junit4.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.eclipse.core.runtime.compatibility.auth.OpenIDE-Module-Install=\u0000
 org.netbeans.modules.ide.kit.OpenIDE-Module-Description=\u0000
+=======
+org.netbeans.modules.ide.kit.OpenIDE-Module-Description=\u0000
+org.eclipse.core.runtime.compatibility.auth.OpenIDE-Module-Install=\u0000
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.php.samples.OpenIDE-Module-Description=\u0000
 org.netbeans.libs.ini4j.OpenIDE-Module-Description=\u0000
 org.netbeans.modules.ide.ergonomics.OpenIDE-Module-Deprecated=\u0000
@@ -833,8 +951,13 @@ org.netbeans.modules.project.ant.OpenIDE-Module-Description=\u0000
 org.netbeans.modules.uihandler.OpenIDE-Module-Description=\u0000
 org.netbeans.modules.queries.OpenIDE-Module-Layer=\u0000
 org.openide.nodes.OpenIDE-Module-Description=\u0000
+<<<<<<< HEAD
 org.netbeans.modules.beans.AutoUpdate-Show-In-Client=false
 org.netbeans.libs.felix.AutoUpdate-Show-In-Client=false
+=======
+org.netbeans.libs.felix.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.beans.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.php.help.OpenIDE-Module-Install=\u0000
 org.netbeans.modules.html.validation.OpenIDE-Module-Layer=\u0000
 org.openide.modules.OpenIDE-Module-Hide-Classpath-Packages=\u0000
@@ -906,7 +1029,10 @@ org.netbeans.modules.websvc.saas.api.OpenIDE-Module-Hide-Classpath-Packages=\u00
 org.netbeans.modules.j2ee.metadata.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.utilities.project.OpenIDE-Module-Layer=\u0000
 org.netbeans.libs.osgi.OpenIDE-Module-Install=\u0000
+<<<<<<< HEAD
 org.netbeans.modules.junitlib.OpenIDE-Module-Deprecated=\u0000
+=======
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 com.jcraft.jsch.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.php.help.OpenIDE-Module-Description=\u0000
 org.netbeans.libs.javacup.OpenIDE-Module-Layer=\u0000
@@ -918,8 +1044,13 @@ org.eclipse.mylyn.commons.core.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.profiler.nbmodule.AutoUpdate-Show-In-Client=false
 org.netbeans.api.xml.OpenIDE-Module-Deprecated=\u0000
 com.jcraft.jzlib.OpenIDE-Module-Layer=\u0000
+<<<<<<< HEAD
 org.netbeans.modules.php.editor.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.editor.fold.AutoUpdate-Show-In-Client=false
+=======
+org.netbeans.modules.editor.fold.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.php.editor.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.queries.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.languages.apacheconf.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.eclipse.equinox.registry.OpenIDE-Module-Layer=\u0000
@@ -1013,8 +1144,13 @@ org.netbeans.modules.db.drivers.OpenIDE-Module-Layer=org/netbeans/modules/db/dri
 org.netbeans.modules.tasklist.todo.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.modules.extexecution.OpenIDE-Module-Install=\u0000
 org.netbeans.modules.websvc.saas.services.zillow.OpenIDE-Module-Install=\u0000
+<<<<<<< HEAD
 org.netbeans.modules.j2eeserver.AutoUpdate-Show-In-Client=false
 org.netbeans.libs.nbi.engine.AutoUpdate-Show-In-Client=false
+=======
+org.netbeans.libs.nbi.engine.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.j2eeserver.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.bugzilla.OpenIDE-Module-Layer=org/netbeans/modules/bugzilla/layer.xml
 org.netbeans.modules.javascript.editing.OpenIDE-Module-Install=org/netbeans/modules/javascript/editing/Installer.class
 org.netbeans.modules.java.j2seplatform.AutoUpdate-Show-In-Client=false
@@ -1095,8 +1231,13 @@ org.netbeans.core.windows.OpenIDE-Module-Install=\u0000
 org.netbeans.modules.html.editor.AutoUpdate-Show-In-Client=false
 org.eclipse.core.runtime.compatibility.auth.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.modules.db.OpenIDE-Module-Layer=org/netbeans/modules/db/resources/mf-layer.xml
+<<<<<<< HEAD
 org.netbeans.modules.maven.indexer.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.cnd.spellchecker.bindings.AutoUpdate-Show-In-Client=false
+=======
+org.netbeans.modules.cnd.spellchecker.bindings.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.maven.indexer.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.editor.plain.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.welcome.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.subversion.OpenIDE-Module-Deprecated=\u0000
@@ -1146,8 +1287,13 @@ org.netbeans.modules.bugzilla.AutoUpdate-Show-In-Client=true
 org.jdesktop.layout.OpenIDE-Module-Layer=\u0000
 org.netbeans.spi.navigator.OpenIDE-Module-Install=\u0000
 org.netbeans.modules.php.symfony.OpenIDE-Module-Install=\u0000
+<<<<<<< HEAD
 org.netbeans.modules.profiler.j2ee.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.spellchecker.apimodule.AutoUpdate-Show-In-Client=false
+=======
+org.netbeans.modules.spellchecker.apimodule.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.profiler.j2ee.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.libs.swingx.OpenIDE-Module-Layer=\u0000
 org.netbeans.modules.php.zend.OpenIDE-Module-Description=\u0000
 org.netbeans.modules.git.OpenIDE-Module-Layer=org/netbeans/modules/git/git-layer.xml
@@ -1157,8 +1303,13 @@ org.netbeans.modules.xml.text.OpenIDE-Module-Install=\u0000
 org.netbeans.spi.editor.hints.OpenIDE-Module-Description=\u0000
 org.netbeans.modules.profiler.ppoints.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.lexer.OpenIDE-Module-Install=\u0000
+<<<<<<< HEAD
 org.netbeans.modules.progress.ui.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.debugger.jpda.projects.AutoUpdate-Show-In-Client=false
+=======
+org.netbeans.modules.debugger.jpda.projects.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.progress.ui.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.hudson.subversion.OpenIDE-Module-Layer=\u0000
 org.netbeans.modules.j2ee.ejbcore.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.php.symfony.OpenIDE-Module-Deprecated=\u0000
@@ -1233,7 +1384,10 @@ org.netbeans.core.browser.AutoUpdate-Show-In-Client=false
 org.apache.commons.codec.OpenIDE-Module-Layer=\u0000
 org.netbeans.modules.print.OpenIDE-Module-Layer=org/netbeans/modules/print/resources/layer.xml
 org.netbeans.modules.profiler.projectsupport.AutoUpdate-Show-In-Client=false
+<<<<<<< HEAD
 org.netbeans.libs.junit4.OpenIDE-Module-Deprecated=\u0000
+=======
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.sampler.OpenIDE-Module-Deprecated=\u0000
 org.eclipse.core.runtime.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.modules.projectui.OpenIDE-Module-Description=\u0000
@@ -1414,11 +1568,19 @@ org.netbeans.libs.javacup.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.websvc.saas.services.zvents.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.websvc.clientapi.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.mobility.end2end.AutoUpdate-Show-In-Client=false
+<<<<<<< HEAD
 org.netbeans.modules.web.refactoring.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.jemmy.AutoUpdate-Show-In-Client=false
 org.netbeans.swing.tabcontrol.OpenIDE-Module-Install=\u0000
 org.eclipse.mylyn.tasks.core.AutoUpdate-Show-In-Client=\u0000
 org.netbeans.modules.mobility.deployment.nokia.AutoUpdate-Show-In-Client=false
+=======
+org.netbeans.modules.jemmy.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.web.refactoring.AutoUpdate-Show-In-Client=false
+org.netbeans.swing.tabcontrol.OpenIDE-Module-Install=\u0000
+org.netbeans.modules.mobility.deployment.nokia.AutoUpdate-Show-In-Client=false
+org.eclipse.mylyn.tasks.core.AutoUpdate-Show-In-Client=\u0000
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.apache.commons.io.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.modules.spellchecker.dictionary_en.OpenIDE-Module-Layer=\u0000
 org.netbeans.modules.settings.AutoUpdate-Show-In-Client=false
@@ -1473,8 +1635,13 @@ org.netbeans.modules.languages.yaml.OpenIDE-Module-Layer=org/netbeans/modules/la
 org.netbeans.modules.xml.tax.OpenIDE-Module-Layer=\u0000
 org.netbeans.modules.spellchecker.bindings.properties.OpenIDE-Module-Layer=org/netbeans/modules/spellchecker/bindings/properties/layer.xml
 org.netbeans.core.nativeaccess.OpenIDE-Module-Deprecated=\u0000
+<<<<<<< HEAD
 org.netbeans.modules.glassfish.javaee.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.cnd.model.services.AutoUpdate-Show-In-Client=false
+=======
+org.netbeans.modules.cnd.model.services.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.glassfish.javaee.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.openide.util.lookup.OpenIDE-Module-Layer=\u0000
 org.apache.ws.commons.util.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.eclipse.mylyn.commons.core.OpenIDE-Module-Description=\u0000
@@ -1509,6 +1676,7 @@ org.netbeans.api.java.classpath.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.project.indexingbridge.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.versioning.indexingbridge.OpenIDE-Module-Layer=\u0000
 org.netbeans.modules.languages.manifest.OpenIDE-Module-Install=\u0000
+<<<<<<< HEAD
 org.apache.commons.codec.AutoUpdate-Show-In-Client=\u0000
 org.netbeans.modules.j2ee.weblogic9.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.versioning.ui.OpenIDE-Module-Hide-Classpath-Packages=\u0000
@@ -1516,6 +1684,15 @@ org.netbeans.modules.javacard.spi.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.html.lexer.OpenIDE-Module-Description=\u0000
 org.netbeans.modules.projectapi.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.j2me.cdc.platform.semc.AutoUpdate-Show-In-Client=false
+=======
+org.netbeans.modules.j2ee.weblogic9.AutoUpdate-Show-In-Client=false
+org.apache.commons.codec.AutoUpdate-Show-In-Client=\u0000
+org.netbeans.modules.versioning.ui.OpenIDE-Module-Hide-Classpath-Packages=\u0000
+org.netbeans.modules.javacard.spi.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.html.lexer.OpenIDE-Module-Description=\u0000
+org.netbeans.modules.j2me.cdc.platform.semc.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.projectapi.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.web.primefaces.AutoUpdate-Show-In-Client=true
 org.netbeans.modules.versioning.ui.AutoUpdate-Show-In-Client=false
 org.openide.util.lookup.OpenIDE-Module-Hide-Classpath-Packages=\u0000
@@ -1637,7 +1814,10 @@ org.netbeans.modules.editor.errorstripe.api.OpenIDE-Module-Install=\u0000
 org.openide.util.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.versioning.indexingbridge.OpenIDE-Module-Install=\u0000
 org.netbeans.modules.mobility.svgcore.AutoUpdate-Show-In-Client=false
+<<<<<<< HEAD
 org.netbeans.modules.junitlib.OpenIDE-Module-Description=\u0000
+=======
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.extexecution.destroy.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.modules.queries.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.modules.xml.catalog.OpenIDE-Module-Description=\u0000
@@ -1732,8 +1912,13 @@ org.openide.util.OpenIDE-Module-Description=\u0000
 org.netbeans.modules.xml.lexer.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.apisupport.restsample.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.db.metadata.model.AutoUpdate-Show-In-Client=false
+<<<<<<< HEAD
 org.netbeans.modules.editor.macros.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.profiler.j2ee.weblogic.AutoUpdate-Show-In-Client=false
+=======
+org.netbeans.modules.profiler.j2ee.weblogic.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.editor.macros.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.openide.execution.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.modules.mercurial.OpenIDE-Module-Description=\u0000
 org.mozilla.rhino.patched.OpenIDE-Module-Hide-Classpath-Packages=\u0000
@@ -1754,8 +1939,13 @@ org.netbeans.modules.websvc.saas.services.strikeiron.OpenIDE-Module-Description=
 org.netbeans.modules.projectui.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.editor.bracesmatching.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.xml.text.OpenIDE-Module-Hide-Classpath-Packages=\u0000
+<<<<<<< HEAD
 org.netbeans.modules.javafx2.platform.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.web.core.syntax.AutoUpdate-Show-In-Client=false
+=======
+org.netbeans.modules.web.core.syntax.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.javafx2.platform.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.css.editor.OpenIDE-Module-Layer=org/netbeans/modules/css/resources/layer.xml
 org.netbeans.modules.php.editor.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.libs.commons_fileupload.AutoUpdate-Show-In-Client=false
@@ -1871,16 +2061,26 @@ org.netbeans.modules.cnd.search.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.xml.schema.completion.AutoUpdate-Show-In-Client=false
 org.netbeans.core.netigso.AutoUpdate-Show-In-Client=false
 org.netbeans.api.java.classpath.OpenIDE-Module-Install=\u0000
+<<<<<<< HEAD
 org.netbeans.modules.autoupdate.pluginimporter.AutoUpdate-Show-In-Client=false
 com.jcraft.jsch.AutoUpdate-Show-In-Client=\u0000
+=======
+com.jcraft.jsch.AutoUpdate-Show-In-Client=\u0000
+org.netbeans.modules.autoupdate.pluginimporter.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.spellchecker.apimodule.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.editor.actions.OpenIDE-Module-Install=\u0000
 org.netbeans.modules.editor.indent.project.OpenIDE-Module-Description=\u0000
 org.netbeans.modules.web.jspparser.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.xml.catalog.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.modules.javadoc.AutoUpdate-Show-In-Client=false
+<<<<<<< HEAD
 org.netbeans.modules.simple.project.templates.AutoUpdate-Show-In-Client=false
 org.openide.actions.AutoUpdate-Show-In-Client=false
+=======
+org.openide.actions.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.simple.project.templates.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.libs.ini4j.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.xml.core.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.swing.tabcontrol.OpenIDE-Module-Layer=\u0000
@@ -1930,7 +2130,10 @@ org.netbeans.modules.websvc.saas.services.amazon.OpenIDE-Module-Hide-Classpath-P
 org.netbeans.modules.extexecution.OpenIDE-Module-Layer=\u0000
 org.netbeans.modules.masterfs.windows.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.editor.settings.AutoUpdate-Show-In-Client=false
+<<<<<<< HEAD
 org.netbeans.libs.junit4.AutoUpdate-Show-In-Client=false
+=======
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.core.execution.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.modules.uihandler.OpenIDE-Module-Install=org/netbeans/modules/uihandler/Installer.class
 org.netbeans.modules.sampler.AutoUpdate-Show-In-Client=false
@@ -1941,7 +2144,10 @@ org.netbeans.modules.gototest.OpenIDE-Module-Description=\u0000
 org.eclipse.core.runtime.AutoUpdate-Show-In-Client=\u0000
 org.netbeans.modules.php.doctrine2.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.swing.plaf.OpenIDE-Module-Layer=\u0000
+<<<<<<< HEAD
 org.netbeans.libs.junit4.OpenIDE-Module-Layer=\u0000
+=======
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.cnd.modelutil.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.sampler.OpenIDE-Module-Install=\u0000
 org.netbeans.modules.cnd.callgraph.AutoUpdate-Show-In-Client=false
@@ -1971,8 +2177,13 @@ org.netbeans.modules.profiler.freeform.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.xml.wsdl.model.OpenIDE-Module-Description=\u0000
 org.netbeans.modules.editor.kit.OpenIDE-Module-Layer=\u0000
 org.netbeans.modules.db.sql.editor.AutoUpdate-Show-In-Client=false
+<<<<<<< HEAD
 org.netbeans.modules.languages.neon.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.java.source.ant.AutoUpdate-Show-In-Client=false
+=======
+org.netbeans.modules.java.source.ant.AutoUpdate-Show-In-Client=false
+org.netbeans.modules.languages.neon.AutoUpdate-Show-In-Client=false
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.modules.php.project.OpenIDE-Module-Description=\u0000
 org.openide.text.OpenIDE-Module-Hide-Classpath-Packages=\u0000
 org.netbeans.modules.versioning.indexingbridge.OpenIDE-Module-Hide-Classpath-Packages=\u0000
@@ -2075,9 +2286,15 @@ org.netbeans.modules.web.beans.AutoUpdate-Show-In-Client=false
 org.netbeans.modules.xml.tax.OpenIDE-Module-Deprecated=\u0000
 org.netbeans.modules.db.core.AutoUpdate-Show-In-Client=false
 org.netbeans.libs.svnClientAdapter.javahl.OpenIDE-Module-Install=\u0000
+<<<<<<< HEAD
 org.eclipse.core.runtime.compatibility.auth.OpenIDE-Module-Description=\u0000
 org.openide.actions.OpenIDE-Module-Install=\u0000
 org.netbeans.modules.editor.search.OpenIDE-Module-Install=\u0000
+=======
+org.openide.actions.OpenIDE-Module-Install=\u0000
+org.netbeans.modules.editor.search.OpenIDE-Module-Install=\u0000
+org.eclipse.core.runtime.compatibility.auth.OpenIDE-Module-Description=\u0000
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
 org.netbeans.api.progress.OpenIDE-Module-Layer=\u0000
 org.netbeans.modules.defaults.OpenIDE-Module-Description=\u0000
 org.netbeans.modules.php.phpdoc.documentation.OpenIDE-Module-Deprecated=\u0000

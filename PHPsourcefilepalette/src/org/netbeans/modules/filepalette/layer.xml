@@ -31,11 +31,15 @@
             
         <file name="BasicVariable.xml" url="BasicVariable.xml"/>
 </folder>
+<<<<<<< HEAD
         <folder name="Directives">
             
         <file name="Include.xml" url="Include.xml"/>
 </folder>
             
+=======
+        
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
         <folder name="Decisions">
             
         <file name="IfDescision.xml" url="IfDescision.xml"/>
