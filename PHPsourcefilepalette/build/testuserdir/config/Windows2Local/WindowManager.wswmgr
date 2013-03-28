@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<windowmanager version="2.1">
+    <main-window>
+  <joined-properties
+<<<<<<< HEAD
+   x="-8"
+   y="-8"
+=======
+   x="2889"
+   y="-13"
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
+   width="1382"
+   height="744"
+   relative-x="0.0"
+   relative-y="0.0"
+   relative-width="0.0"
+   relative-height="0.0"
+   centered-horizontally="false"
+   centered-vertically="false"
+   maximize-if-width-below="0"
+   maximize-if-height-below="0"
+   frame-state="6"
+/>
+  <separated-properties
+   x="192"
+   y="104"
+   width="1536"
+   height="83"
+   relative-x="0.0"
+   relative-y="0.0"
+   relative-width="0.0"
+   relative-height="0.0"
+   centered-horizontally="false"
+   centered-vertically="false"
+   frame-state="0"
+/>
+  </main-window>
+    <editor-area state="joined" frame-state="0">
+  <constraints>
+  <path orientation="horizontal" number="60" weight="0.7" />
+  <path orientation="vertical" number="40" weight="0.7" />
+  <path orientation="horizontal" number="40" weight="0.7204825249938033" />
+  <path orientation="horizontal" number="0" weight="0.75" />
+  </constraints>
+  <bounds x="633" y="249" width="806" height="457" />
+    </editor-area>
+    <screen width="1920" height="1080"/>
+    <active-mode name="editor"/>
+    <toolbar configuration="Standard" preferred-icon-size="24"/>
+    <tc-list>
+<<<<<<< HEAD
+  <tc-id id="MultiView-php#002Esource#007Ctext#002Ehistory#007C"/>
+  <tc-id id="CommonPalette"/>
+  <tc-id id="Welcome"/>
+  <tc-id id="projectTab_tc"/>
+=======
+  <tc-id id="CommonPalette"/>
+  <tc-id id="MultiView-php#002Esource#007Ctext#002Ehistory#007C"/>
+  <tc-id id="projectTab_tc"/>
+  <tc-id id="Welcome"/>
+>>>>>>> 405e4781ec7ec4deb4521e193b48c8b7d7eb724d
+  <tc-id id="TaskListTopComponent"/>
+  <tc-id id="navigatorTC"/>
+  <tc-id id="services"/>
+    </tc-list>
+</windowmanager>
