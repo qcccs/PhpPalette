@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="org-netbeans-modules-languages-ini.xml">
+        <attr name="ergonomicsEnabled" longvalue="1361911235236"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-php-apigen.xml">
+        <attr name="ergonomicsEnabled" longvalue="1361911235236"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-php-dbgp.xml">
+        <attr name="ergonomicsEnabled" longvalue="1361911235236"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-php-doctrine2.xml">
+        <attr name="ergonomicsEnabled" longvalue="1361911235236"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-php-editor.xml">
+        <attr name="ergonomicsEnabled" longvalue="1361911235236"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-php-help.xml">
+        <attr name="ergonomicsEnabled" longvalue="1361911235236"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-php-kit.xml">
+        <attr name="ergonomicsEnabled" longvalue="1361911235236"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-php-phpdoc-documentation.xml">
+        <attr name="ergonomicsEnabled" longvalue="1361911235236"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-php-project.xml">
+        <attr name="ergonomicsEnabled" longvalue="1361911235236"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-php-refactoring.xml">
+        <attr name="ergonomicsEnabled" longvalue="1361911235236"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-php-samples.xml">
+        <attr name="ergonomicsEnabled" longvalue="1361911235236"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-php-smarty.xml">
+        <attr name="ergonomicsEnabled" longvalue="1361911235236"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-php-symfony.xml">
+        <attr name="ergonomicsEnabled" longvalue="1361911235236"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-php-symfony2.xml">
+        <attr name="ergonomicsEnabled" longvalue="1361911235236"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-php-twig.xml">
+        <attr name="ergonomicsEnabled" longvalue="1361911235236"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-php-zend.xml">
+        <attr name="ergonomicsEnabled" longvalue="1361911235236"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-websvc-saas-codegen-php.xml">
+        <attr name="ergonomicsEnabled" longvalue="1361911235236"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+</attributes>

@@ -1,0 +1,16 @@
+ERROR:29:Syntax error\d unexpected\d hi\nexpected\d function, const, use, var, }, static, abstract, final, private, protected, public
+ERROR:29:Syntax error\d\nexpected\d instanceof, \d\d, OR, XOR, AND, ?, ';', ||, &&, |, ^, &, ==, !=, ===, !==, <=+, >=+, <, >, <<, >>, +, -, *, /, %, '.', (, '\d'
+ERROR:30:Syntax error\d\nexpected\d instanceof, OR, XOR, AND, ?, ';', ||, &&, |, ^, &, ==, !=, ===, !==, <=+, >=+, <, >, <<, >>, +, -, *, /, %, '.'
+ERROR:31:Syntax error\d\nexpected\d function, const, use, var, }, static, abstract, final, private, protected, public
+ERROR:50:Syntax error\d unexpected\d End of File\nexpected\d exit, if, identifier, variable, echo, do, while, endwhile, for, endfor, foreach, endforeach, declare, enddeclare, switch, endswitch, case, default, break, continue, function, return, try, throw, use, global, unset, isset, empty, class, interface, array, {, }, include, include_once, eval, require, require_once, print, ';', +, -, !, ~, ++, --, @, [, new, endif, elseif, else, static, abstract, final, (, $
+ERROR:29:Syntax error\d\nexpected\d function, const, use, var, }, static, abstract, final, private, protected, public
+ERROR:30:Syntax error\d\nexpected\d instanceof, OR, XOR, AND, ?, ';', ||, &&, |, ^, &, ==, !=, ===, !==, <=+, >=+, <, >, <<, >>, +, -, *, /, %, '.'
+ERROR:31:Syntax error\d\nexpected\d function, const, use, var, }, static, abstract, final, private, protected, public
+ERROR:50:Syntax error\d unexpected\d End of File\nexpected\d exit, if, identifier, variable, echo, do, while, endwhile, for, endfor, foreach, endforeach, declare, enddeclare, switch, endswitch, case, default, break, continue, function, return, try, throw, use, global, unset, isset, empty, class, interface, array, {, }, include, include_once, eval, require, require_once, print, ';', +, -, !, ~, ++, --, @, [, new, endif, elseif, else, static, abstract, final, (, $
+ERROR:29:Syntax error\d unexpected\d hi\nexpected\d function, const, use, var, }, static, abstract, final, private, protected, public
+ERROR:29:Syntax error\d\nexpected\d instanceof, \d\d, OR, XOR, AND, ?, ';', ||, &&, |, ^, &, ==, !=, ===, !==, <=+, >=+, <, >, <<, >>, +, -, *, /, %, '.', (, '\d'
+ERROR:30:Syntax error\d\nexpected\d instanceof, OR, XOR, AND, ?, ';', ||, &&, |, ^, &, ==, !=, ===, !==, <=+, >=+, <, >, <<, >>, +, -, *, /, %, '.'
+ERROR:31:Syntax error\d\nexpected\d function, const, use, var, }, static, abstract, final, private, protected, public
+ERROR:50:Syntax error\d unexpected\d End of File\nexpected\d exit, if, identifier, variable, echo, do, while, endwhile, for, endfor, foreach, endforeach, declare, enddeclare, switch, endswitch, case, default, break, continue, function, return, try, throw, use, global, unset, isset, empty, class, interface, array, {, }, include, include_once, eval, require, require_once, print, ';', +, -, !, ~, ++, --, @, [, new, endif, elseif, else, static, abstract, final, (, $
+ERROR:29:Syntax error\d\nexpected\d instanceof, \d\d, OR, XOR, AND, ?, ';', ||, &&, |, ^, &, ==, !=, ===, !==, <=+, >=+, <, >, <<, >>, +, -, *, /, %, '.', (, '\d'
+ERROR:30:Syntax error\d\nexpected\d instanceof, OR, XOR, AND, ?, ';', ||, &&, |, ^, &, ==, !=, ===, !==, <=+, >=+, <, >, <<, >>, +, -, *, /, %, '.'

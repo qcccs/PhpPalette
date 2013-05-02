@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="CssPreviewTCWsmode">
+        <attr name="WinSys-TCRef-Order" stringvalue="CssPreviewTC"/>
+    </fileobject>
+    <fileobject name="anonymousMode_2">
+        <attr name="WinSys-TCRef-Order" stringvalue="CommonPalette"/>
+    </fileobject>
+    <fileobject name="code_evaluator">
+        <attr name="WinSys-TCRef-Order" stringvalue="evaluator"/>
+    </fileobject>
+    <fileobject name="commonpalette">
+        <attr name="_palette_visible_LearningPalette" boolvalue="true"/>
+        <attr name="_palette_visible_Palettes/PHP" boolvalue="true"/>
+        <attr name="_palette_visible__empty_" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="editor">
+        <attr name="WinSys-TCRef-Order" stringvalue="QueryTopComponent/Welcome/dbgInstances/DisassemblerWindow/CoverageReportTopComponent/MultiView-php#002Esou6DA18E8Fxt#002Ehistory#007C_1"/>
+    </fileobject>
+    <fileobject name="explorer">
+        <attr name="WinSys-TCRef-Order" stringvalue="projectTabLogical_tc/projectTab_tc/services/favorites/debugging/profiler_cp"/>
+    </fileobject>
+    <fileobject name="navigator">
+        <attr name="WinSys-TCRef-Order" stringvalue="navigatorTC/PhpHierarchyTopComponent"/>
+    </fileobject>
+    <fileobject name="output">
+        <attr name="WinSys-TCRef-Order" stringvalue="TaskListTopComponent/watchesView/localsView/resultsView/callstackView/breakpointsView/sources/sessionsView/threadsView/bookmarks/versioning_output/search-results/gsf-testrunner-results/refactoring-preview/find-usages/StyleBuilderTC/TerminalContainerTopComponent/output/svnversioning/hgversioningTC/GitVersioning/GitRepositories/ReporterResultTopComponent/profiler_pp/eventsView/profiler_to/AnalysisResultTopComponent/classes/MemoryWindow/RegistersWindow/DocViewTopComponent/EvaluationWindow/threads/watches/sessions/locals"/>
+    </fileobject>
+    <fileobject name="rightSlidingSide">
+        <attr name="WinSys-TCRef-Order" stringvalue="properties"/>
+    </fileobject>
+</attributes>
